@@ -141,5 +141,11 @@ img {
 	float:left;
 }
 
+#images {
+	float:left;
+	margin-top: 8%;
+	margin-left:15%;
+}
+
 a img:hover{ position: relative;
              top: -5px;}
