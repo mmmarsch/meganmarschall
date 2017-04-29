@@ -156,14 +156,15 @@ visibility:hidden;
 #wrapper:hover .text {
 visibility:visible;
 font-family: 'Patrick Hand', cursive;
-font-size: 1.5em;
-color:gray;
-margin-left: 10%;
+font-size: 1em;
+color:darkgray;
+margin-left: 5%;
 }
 
 
 a img:hover{ position: relative;
-             top: -5px;}
+             bottom: 5px;
+					 		}
 
 						 a:link {
 						     text-decoration: none;
